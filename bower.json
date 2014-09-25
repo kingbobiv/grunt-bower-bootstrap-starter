@@ -1,0 +1,6 @@
+{
+  "name": "Grunt-Bower Starter Template for Projects",
+  "dependencies": {
+    "bootstrap": "~3.2.0"
+  }
+}
